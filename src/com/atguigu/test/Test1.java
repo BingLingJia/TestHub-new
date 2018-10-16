@@ -10,6 +10,8 @@ public class Test1 {
 		System.out.println("eclipse中修改");
 		System.out.println("eclipse中修改2-testhub");
 		System.out.println("eclipse中修改2——testhub-clone");
+		System.out.println("eclipse中修改3——testhub-clone");
+		
 		System.out.println("eclipse中修改3——testhub");
 		
 	}
